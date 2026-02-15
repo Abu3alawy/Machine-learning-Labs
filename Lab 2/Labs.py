@@ -1,6 +1,7 @@
 
 import pandas as pd
-df = pd.read_csv('StudentPerformanceFactors.csv')
+df = pd.read_csv('Lab 2/StudentPerformanceFactors.csv')
+
 
 
 
